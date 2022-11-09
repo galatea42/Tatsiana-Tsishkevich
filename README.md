@@ -3,7 +3,7 @@
 ### How to run tests:
 #### Step 1: Project installation
 1. Open IDE you are using.
-2. Clone this repository to your workstation using provided link (e.g. using command *git clone "repo"* in terminal).
+2. Clone this repository to your workstation (e.g. using command *git clone "repo"* in terminal).
 2. No other file or code modifications expected.
 
 #### Step 2: Tests
