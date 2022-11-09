@@ -1,0 +1,26 @@
+{
+  "name": "hometask-project-tatsiana-tsishkevich",
+  "version": "1.0.0",
+  "description": "This is my first project",
+  "main": "main",
+  "repository": "git@github.com:galatea42/Tatsiana-Tsishkevich.git",
+  "author": "ttsishkevich",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.2",
+    "@babel/node": "^7.20.2",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.3.0",
+    "jest": "^29.3.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "js"
+    ]
+  },
+  "type": "module"
+}
